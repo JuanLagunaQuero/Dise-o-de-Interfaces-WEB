@@ -1,0 +1,52 @@
+body{
+    background-color: #c6d9ee;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1{
+    font-size: 300%;
+    text-align: right;
+}
+
+span{
+    color: red;
+    font-family: "Comic sans", cursive;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+    font-variant-ligatures: normal;
+    font-variant-caps: small-caps;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+
+}
+
+p{
+    line-height: 200%;
+    text-indent: 3em;
+}
+
+time{
+    color: darkorange;
+}
+
+em{
+    background-color: white;
+    color: green;
+    font-style: italic;
+}
+
+strong{
+    color: chocolate;
+    font-weight: bold;
+}
+
+address{
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+}

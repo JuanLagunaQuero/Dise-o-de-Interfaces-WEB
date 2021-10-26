@@ -1,0 +1,38 @@
+body{
+    margin: 10px 10%;
+    background-color: lightgrey;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1{
+    font-size: 300%;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+h2{
+    background-color: grey;
+    color:white;
+    font-size: 200%;
+    padding: 0.5%;
+}
+
+p{
+    margin-right: 10%;
+    margin-left: 10%;
+    text-indent: 4%;
+}
+
+em{
+    color: tomato;
+}
+
+strong{
+    background-color: white;
+}
+
+img{
+    float: left;
+    margin-right: 2%;
+}

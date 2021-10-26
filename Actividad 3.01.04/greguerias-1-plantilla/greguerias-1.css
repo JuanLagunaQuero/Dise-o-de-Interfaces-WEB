@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 150%;
+}
+
+p.prim {
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.seg {
+    color: #ffdfb3;
+    font-family: sans-serif;
+}
+
+p.ter {
+    color: #ff9f1a;
+    font-family: monospace;
+    font-size: 200%;
+}
+
+p.cuarta {
+    color: #e6194d;
+    font-family: cursive;
+}
