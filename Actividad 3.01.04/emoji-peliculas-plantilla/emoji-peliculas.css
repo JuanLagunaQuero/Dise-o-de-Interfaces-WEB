@@ -1,0 +1,39 @@
+/* 🌍 - &#x1F30D; - Earth globe Europe-Africa
+🐑 - &#x1F411; - Sheep
+🐵 - &#x1F435; - Monkey face
+👰 - &#x1F470; - Bride with veil
+👻 - &#x1F47B; - Ghost
+💀 - &#x1F480; - Skull
+🔇 - &#x1F507; - Speaker with cancellation stroke
+🔪 - &#x1F52A; - Hocho
+🔫 - &#x1F52B; - Pistol
+🚿 - &#x1F6BF; - Shower */
+body{
+    background-color: #ffeacc;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #995900;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 200%;
+}
+
+p.pregunta{
+    color: #ff9500;
+}
+
+summary{
+    font-size: 400%;
+}
+
+span.par{
+    background-color: white;
+}
+
+span.impar{
+    background-color: #ffccea;
+}

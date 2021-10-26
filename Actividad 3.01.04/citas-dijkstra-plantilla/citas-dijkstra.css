@@ -15,7 +15,7 @@ body {
     text-align: justify;
   }
   
-  p.intro {
+  p.negro {
     border: black 10px solid;
     border-radius: 30px;
     margin-left: 25%;
@@ -24,7 +24,7 @@ body {
     background-color: white;
   }
   
-  p.est1 {
+  p.rojo {
     border: #802400 20px solid;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -34,7 +34,7 @@ body {
     color: white;
   }
   
-  p.est2 {
+  p.marron {
     border: #804800 15px solid;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -44,7 +44,7 @@ body {
     color: white;
   }
   
-  p.est3 {
+  p.azul {
     border: #3978ac 5px dashed;
     margin-left: 25%;
     margin-right: 25%;

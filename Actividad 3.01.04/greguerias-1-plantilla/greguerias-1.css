@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(145, 50%, 35%);
+    background-color: #2d8652;
     font-family: sans-serif;
 }
 
@@ -12,24 +12,24 @@ p {
     font-size: 150%;
 }
 
-p.prim {
+p.blanco {
     color: white;
     font-family: serif;
     font-style: oblique;
 }
 
-p.seg {
+p.rosilla {
     color: #ffdfb3;
     font-family: sans-serif;
 }
 
-p.ter {
+p.marron {
     color: #ff9f1a;
     font-family: monospace;
     font-size: 200%;
 }
 
-p.cuarta {
+p.rosa {
     color: #e6194d;
     font-family: cursive;
 }
