@@ -1,0 +1,41 @@
+body{
+    background-color: #c4c6b9;
+    font-family: sans-serif;
+    font-size: 150%;
+    text-align: justify;
+}
+
+h1{
+    color: #161669;
+    font-weight: 900;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+}
+
+h2{
+    clear: both;
+    background-color: #5d6336;
+    color: white;
+}
+
+p.centrado{
+    text-align: center;
+}
+
+img.i{
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+img.d{
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+address{
+    clear: both;
+    font-size: 20px;
+}

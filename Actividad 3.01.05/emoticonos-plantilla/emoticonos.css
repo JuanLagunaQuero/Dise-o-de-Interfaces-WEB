@@ -1,0 +1,59 @@
+body{
+    margin: 0 20%;
+    background-color: #fef8e6;
+    font-family: sans-serif;
+    font-size: 200%;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    clear: both;
+}
+
+p.centrado{
+    text-align: center;
+}
+
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 5px;
+    background-color: black;
+}
+
+pre{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: #eeeeee;
+    white-space: pre-wrap;
+        
+}
+
+q{
+    font-style: oblique;
+}
+
+img{
+    vertical-align: middle;
+}
+
+img.izq{
+    float: left;
+    margin-right: 10px;
+}
+
+span{
+    font-size: 150%;
+}
+
+address{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
