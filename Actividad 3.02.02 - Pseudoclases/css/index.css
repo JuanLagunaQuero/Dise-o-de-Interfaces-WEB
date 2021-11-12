@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+
+h2:first-of-type{
+    color: palevioletred;
+}
+
+h2::first-letter{
+    color: red;
+}
+
+li{
+    list-style:  none;
+}
+
+li:nth-child(3){
+    color: greenyellow;
+}
