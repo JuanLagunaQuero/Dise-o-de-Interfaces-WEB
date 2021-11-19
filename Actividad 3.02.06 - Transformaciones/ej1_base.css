@@ -1,0 +1,125 @@
+.container{
+    position: relative;
+  }
+  .caja{
+    width: 180px;
+    height: 180px;
+    background-color: #30B037;
+    color: #FFF;
+    text-align: center;
+    line-height: 180px;
+    margin: 15px;
+    float: left;
+    font-size: 18px;
+    font-family: Arial;
+  }
+
+  .caja1{
+    background-color: #c0392b;
+    transition-property: scale;
+  }
+
+  .caja1:hover{
+    transform: scale(.5);
+  }
+
+
+  .caja2{
+    background-color: #9b59b6;
+    transition-property: rotate;
+  }
+
+  .caja2:hover{
+    -webkit-transform: rotate(360deg);
+  transform: rotate(-36deg);
+  }
+
+
+  .caja3{
+    background-color: #2980b9;
+    transition-property: skew;
+  }
+
+  .caja3:hover{
+    transform: skew(10deg);
+  }
+
+
+  .caja4{
+    background-color: #3498db;
+    transition-property: skewx;
+  }
+
+  .caja4:hover{
+    transform: skew(10deg);
+  }
+
+
+  .caja5{
+    background-color: #17a589;
+    transition-property: skewy;
+  }
+
+  .caja5:hover{
+    transform: skewY(10deg);
+  }
+
+
+  .caja6{
+    background-color: #f1c40f;
+    transition-property: translate;
+  }
+  .caja6:hover{
+    transform: translate(10%);
+  }  
+
+
+  .caja7{
+    background-color: #e67e22;
+    transition-property: translatex;
+  }
+
+  .caja7:hover{
+    transform: translateX(20px);
+  }
+
+
+  .caja8{
+    background-color: #95a5a6;
+    transition-property: translatey;
+  }
+
+  .caja8:hover{
+    transform: translateY(20px);
+  }
+
+  
+  .caja9{
+    background-color: #2c3e50;
+    transition-property: perspectiverotatex;
+  }
+  
+  .caja9:hover{
+    transform: perspective(150px) rotateX(45deg);
+  }
+
+
+  .caja10{
+    background-color: #808080;
+    transition-property: perspectiverotatey;
+  }
+
+  .caja10:hover{
+    transform: perspective(150px) rotateY(45deg);
+  }
+
+
+  .caja11{
+    background-color: #000000;
+    transition-property: matrix;
+  }
+
+  .caja11:hover{
+    transform: matrix(0.5, 0.1, 0.5, 1, 10, -2);
+  }
+  
