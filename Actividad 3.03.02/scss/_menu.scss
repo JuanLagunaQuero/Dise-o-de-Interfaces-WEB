@@ -48,7 +48,7 @@ nav {
     }
 
     a:hover {
-        @include color;
+        @include color-hover;
         @include animaciones(iluminar, 0.4s);
     }
 }
