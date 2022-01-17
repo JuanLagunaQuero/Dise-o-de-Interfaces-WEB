@@ -1,0 +1,53 @@
+
+#verde1, #verde2{
+    background: #29fe30;
+    height: 80px;
+    text-align: center;
+    font-style: italic;
+    line-height: 80px;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.azul{
+    background: #87aade;
+    height: 150px;
+    color: black;
+    line-height: 150px;
+    text-align: center;
+}
+
+.letras{
+    background: #cccccc;
+    height: 150px;
+    color: black;
+    line-height: 150px;
+    text-align: center;
+}
+
+.dispositivos{
+    background: aqua;
+    height: 60px;
+    text-align: center;
+    font-style: italic;
+    line-height: 60px;
+}
+
+.caras{
+    background: #fe9a5d;
+    height: 80px;
+    text-align: center;
+    font-style: italic;
+    line-height: 80px;
+}
+
+#verde2{
+    height: 60px;
+    line-height: 60px;
+}
