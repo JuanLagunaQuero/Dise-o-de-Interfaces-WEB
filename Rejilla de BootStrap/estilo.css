@@ -1,0 +1,39 @@
+div {
+  border: 2px white solid;
+}
+
+#verde1 {
+  background-color: #29fe2f;
+  height: 80px;
+}
+
+#verde2 {
+  background-color: #29fe2f;
+  height: 40px;
+
+}
+
+
+.rojo {
+  background-color: #fc0d1b;
+
+}
+
+.violeta {
+  background-color: #fd29fc;
+  height: 60px;
+
+
+}
+
+.cafe {
+  background-color: #fe9a5d;
+  height: 140px;
+
+}
+
+.azul {
+  background-color: #0b24fb;
+  height: 100px;
+}
+
